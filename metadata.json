@@ -1,0 +1,6 @@
+{
+  "name": "PharmaDesk - Next-Gen Pharmacy Management SaaS",
+  "description": "Intelligent pharmacy management software for independent pharmacies and medical stores across India. Smart inventory, fast billing, expiry tracking, and real-time business insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
